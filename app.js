@@ -1,5 +1,5 @@
 //Verificando de que el archivo se este cargando 
-console.log("Script app.MensajesGitHub.js cargando");
+console.log("Script app.js cargando");
 
 const API_URL = 'https://gamesofthronesquotes.xyz/v1/random';
 
